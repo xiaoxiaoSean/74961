@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @xiaoxiaoSean
 - 👀 I’m interested in 3D printing,Software development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently developing my software 
+- 💞️ I’m looking to let everyone use professional software for free by developing a series of open-source software 
+- 📫 How to reach me tg@xiaoxiao_Sean if you want
+- spammers and scammers will be banned
 
 <!---
 xiaoxiaoSean/74961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
